@@ -11,7 +11,7 @@ title                    : "Namal Rathnayake | Home on the Web"
 title_separator          : "-"
 name                     : &name "Namal Rathnayake"
 description              : &description "This is Namal Rathnayake's home on the web!"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://namalhappy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "namalhappy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Namal Rathnayake, PhD."
   avatar           : "me.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Namal Rathnayake is a passionate machine learning researcher and engineer with 4+ years of experience in research and development. He obtained a doctoral degre in System Engineering at Kochi University of Technology in Japan, where his research focused on machine learning and artificial intelligence. He has a Master of Science degree in Robotics and Automation from the University of Salford in the UK and a Bachelor of Engineering in Electronics and Telecommunication from the University of Wolverhampton, also in the UK. Namal has worked as a freelancer at Upwork.com, a visiting lecturer, an assistant lecturer, and an instructor in various institutions in Sri Lanka, teaching courses such as electronic engineering, programming, and embedded systems. He has published several papers in reputable journals and conferences, including a novel machine learning algorithm called Cascaded Adaptive Network-based Fuzzy Inference system that improves accuracy by up to 99.9%."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
