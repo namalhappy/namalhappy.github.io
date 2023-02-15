@@ -4,7 +4,7 @@ collection: publications
 permalink: https://www.mdpi.com/1424-8220/22/8/2905
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
-venue: 'Journal 2'
+venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/22/8/2905'
 citation: 'Rathnayake, Namal, et al. "A Cascaded Adaptive Network-Based Fuzzy Inference System for Hydropower Forecasting." Sensors 22.8 (2022): 2905.'
 ---
