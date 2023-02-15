@@ -2,7 +2,7 @@
 title: "A Cascaded Adaptive Network-Based Fuzzy Inference System for Hydropower Forecasting"
 collection: publications
 permalink: https://www.mdpi.com/1424-8220/22/8/2905
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 
 date: 2022-04-10
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1424-8220/22/8/2905'
