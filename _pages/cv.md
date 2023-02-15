@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Electronics and Telecommunication, Second Class Upper Division, University of Wolverhampton, UK (2013-2016)
+* Master of Science in Robotics and Automation, University of Salford, UK (2017-2019)
+* Ph.D in School of System Engineering, Kochi University of Technology, Japan (2020-2023)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Visiting Lecturer at Open University, Sri Lanka, Faculty of Engineering Technology (2021-2022)
+* Assistant Lecturer at Sri Lanka Institute of Information Technology, Department of Electrical and Electronics, Faculty of Engineering (2019-2020)
+* Instructor at Sri Lanka Institute of Information Technology, Department of Electrical and Electronics, Faculty of Engineering (2016-2019)
+* Visiting Lecturer at Aquinas College of Higher Studies, Faculty of Engineering (2017-2018)
+* Freelancer at Upwork.com, working on Arduino-based project research and implementation, tutorials, consultation for sensors selection, research data collection, application development, lectures on coding, and design and implementation of automatic parachute deployment system on drone, designing and developing surface-mounted PCBs, and researching vehicle control and dynamics (2019-present)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data and Quantitative Analysis
+* Decision Analytics
+* Predictive Modelling
+* Data-Driven Personalization
+* Machine Learning Algorithms
+    * CNN based algorithms
+    * Fuzzy Based algorithms
+    * Gradient Boosting: XGBoost, CatBoost, etc.
+* Organizational and analytical skills
+* Understanding of technical documentation
+* Communication and presentation
+* Problem-solving
+* Programming languages
+    * C / C++
+    *	Python
+    *	R
+    *	MATLAB
+    *	VHDL
+    *	Verilog
 
 Publications
 ======
@@ -42,18 +51,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
