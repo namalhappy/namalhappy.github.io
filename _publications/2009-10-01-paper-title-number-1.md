@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "An Efficient Automatic Fruit-360 Image Identification and Recognition Using a Novel Modified Cascaded-ANFIS Algorithm"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: https://link.springer.com/article/10.1007/s40815-021-01076-z
+excerpt:  #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-05-05
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://link.springer.com/article/10.1007/s40815-021-01076-z'
+citation: 'Rathnayake, Namal, Tuan Linh Dang, and Yukinobu Hoshino. "A novel optimization algorithm: cascaded adaptive neuro-fuzzy inference system." International Journal of Fuzzy Systems 23.7 (2021): 1955-1971.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+#This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://link.springer.com/article/10.1007/s40815-021-01076-z)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rathnayake, Namal, Tuan Linh Dang, and Yukinobu Hoshino. "A novel optimization algorithm: cascaded adaptive neuro-fuzzy inference system." International Journal of Fuzzy Systems 23.7 (2021): 1955-1971.
