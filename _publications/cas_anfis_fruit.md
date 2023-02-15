@@ -3,7 +3,7 @@ title: "An Efficient Automatic Fruit-360 Image Identification and Recognition Us
 collection: publications
 permalink: https://www.mdpi.com/1671982
 excerpt:
-date: 2010-10-01
+date: 2022-06-10
 venue: 'Sensors'
 paperurl: 'https://www.mdpi.com/1671982'
 citation: 'Rathnayake, Namal, et al. "An Efficient Automatic Fruit-360 Image Identification and Recognition Using a Novel Modified Cascaded-ANFIS Algorithm." Sensors 22.12 (2022): 4401.'
