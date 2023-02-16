@@ -6,7 +6,7 @@ excerpt:
 date: 2022-12-01
 venue: 'Proceedings of the 11th International Symposium on Information and Communication Technology'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3568562.3568598'
-citation: 'Mitani, K.; Rathnayake, N.; Rathnayake, U.; Dang, T.L.; Hoshino, Y. Brain Activity Associated with the Planning Process during the Long-Time Learning of the Tower of Hanoi (ToH) Task: A Pilot Study. Sensors 2022, 22, 8283. https://doi.org/10.3390/s22218283'
+citation: 'Namal Rathnayake, Tuan Linh Dang, and Yukinobu Hoshino. 2022. Designing and Implementation of Novel Ensemble model based on ANFIS and Gradient Boosting methods for Hand Gestures Classification. In Proceedings of the 11th International Symposium on Information and Communication Technology (SoICT '22). Association for Computing Machinery, New York, NY, USA, 283–289. https://doi.org/10.1145/3568562.3568598'
 ---
 
 ## Abstract
