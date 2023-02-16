@@ -1,5 +1,5 @@
 ---
-title: "Brain Activity Associated with the Planning Process during the Long-Time Learning of the Tower of Hanoi (ToH) Task: A Pilot Study "
+title: "Designing and Implementation of Novel Ensemble model based on ANFIS and Gradient Boosting methods for Hand Gestures Classification "
 collection: publications
 permalink: https://www.mdpi.com/1424-8220/22/21/8283
 excerpt: 
